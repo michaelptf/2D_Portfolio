@@ -12,6 +12,12 @@ Welcome to my 2D Portfolio website! This project is a creative showcase of my wo
 
 ---
 
+## 🌐 Portfolio Website
+The website is now running on:  
+**[https://michaelptf.github.io/2D_Protfolio/](https://michaelptf.github.io/2D_Protfolio/)**
+
+---
+
 ## 📂 File Structure
 
 ```plaintext
