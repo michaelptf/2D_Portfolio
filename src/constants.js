@@ -9,7 +9,7 @@ export const dialogueData = {
   "sofa-table": `That's my sofa. I like watching YouTube and playing video gamese here. `,
   tv: `That's my TV. I also love watching Japanese anime like Naruto, One Punch Man, Jojo, Attack on Titan etc. `,
   bed: `This where I sleep. I always dream to be a software engineer.`,
-  resume: `This is my resume. <a href="public/MichaelPoon_resume_2024.pdf" target="_blank">Check it out?</a>
+  resume: `This is my resume. <a href="MichaelPoon_resume_2024.pdf" target="_blank">Check it out?</a>
     Contact me at michaelptf@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
     Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. I also made other projects, you can check it out on my github!`,
